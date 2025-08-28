@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Client 1 Full Gallery</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+<header>
+  <nav class="navbar">
+    <ul>
+      <li><a href="index.html">HOME</a></li>
+      <li><a href="#clients" class="active">CLIENTS</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="client-gallery">
+  <!-- All images -->
+  <div class="gallery-item"><img src="../images/Oziva Gallery/tube mockup png.png" alt="">mockup<div class="overlay">Mockup</div></div>
+  <div class="gallery-item"><img src="../images/Oziva Gallery/Stationary Final.jpg" alt="">statfinal<div class="overlay">Branding</div></div>
+  <div class="gallery-item"><img src="../images/Oziva Gallery/Product Poster.jpg" alt="">prodposter<div class="overlay">UI</div></div>
+  <div class="gallery-item"><img src="../images/Oziva Gallery/Product Podium.jpg" alt="">prodpodium<div class="overlay">Social Media</div></div>
+  <div class="gallery-item"><img src="../images/Oziva Gallery/letter head 2.jpg" alt="">letterhead<div class="overlay">Packaging</div></div>
+</section>
+
+</body>
+</html>
